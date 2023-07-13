@@ -40,7 +40,7 @@ ViewBytes can also be used as a template to create your own technical blog proje
 
 ## Contact
 
-If you have any questions, suggestions, or feedback regarding VueBytes, you can reach us at [emmajr503@gmail.com](mailto:emmajr503@gmail.com).
+If you have any questions, suggestions, or feedback regarding VueBytes, you can reach me at [emmajr503@gmail.com](mailto:emmajr503@gmail.com).
 
 ## License
 
